@@ -6,7 +6,7 @@
     "private-spaces",
     "dns-discovery"
   ],
-  "repository": "https://github.com/heroku/spark-in-space",
+  "repository": "https://github.com/herokumx/spark-in-space",
   "env": {
     "SPACE_PROXY_BASIC_AUTH": {
       "description": "nginx basic auth",
