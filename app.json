@@ -24,7 +24,7 @@
   "formation": {
     "master": {
       "quantity": 1,
-      "size": "Private-M"
+      "size": "Private-L"
     },
     "worker": {
       "quantity": 2,
@@ -32,7 +32,7 @@
     },
     "web": {
       "quantity": 1,
-      "size": "Private-S"
+      "size": "Private-L"
     }
   },
   "image": "heroku/jvm",
