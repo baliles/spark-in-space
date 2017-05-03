@@ -51,6 +51,9 @@
     },
     {
       "url": "https://github.com/herokumx/heroku-buildpack-inline.git"
-    }
+    },
+	{
+	  "url": "https://github.com/heroku/heroku-buildpack-python"
+	}
   ]
 }
