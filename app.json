@@ -56,7 +56,7 @@
 	  "url": "https://github.com/heroku/heroku-buildpack-python"
 	},
 	{
-	  "url" : "https://github.com/herokumx/spark-in-space.git"
+	  "url" : "https://github.com/heroku/spark-in-space.git"
 	}
   ]
 }
