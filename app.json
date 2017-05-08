@@ -47,13 +47,16 @@
       "url": "https://github.com/herokumx/heroku-buildpack-space-proxy.git"
     },
     {
-      "url": "https://github.com/herokumx/heroku-buildpack-jvm-common.git"
+      "url": "https://github.com/herokumx/heroku-buildpack-jvm-common.git"	
     },
     {
       "url": "https://github.com/herokumx/heroku-buildpack-inline.git"
     },
 	{
 	  "url": "https://github.com/heroku/heroku-buildpack-python"
+	},
+	{
+	  "url" : "https://github.com/herokumx/spark-in-space.git"
 	}
   ]
 }
